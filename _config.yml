@@ -11,7 +11,7 @@ email: yanjing@hawaii.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the YanLab.
 baseurl: ""
-url: "https://github.com/tjyanjing/lab_website"
+url: "https://tjyanjing.github.io/"
 
 include:
   - .htaccess
