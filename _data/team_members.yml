@@ -94,15 +94,15 @@
 #
 - name: Sarabella Stusen
   photo: Stusen.JPG
-  info: Sarebella is a third-year student studying Global Environmental Science. She is now researching soil hydraulic Properties of Tropical Soils in Hawaii for her Undergraduate Thesis.
+  info: Sarebella is a third-year undergraduate student studying Global Environmental Science. She is now researching soil hydraulic properties of tropical soils in Hawai'i for her Undergraduate Thesis.
   # email: Oosten@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: University of Hawaiʻi at Mānoa
   # education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
 #
 - name: Alec-Bae Oshiro
-  photo: Oshiro.jpg
-  info: Alec is Senior at Waipahu High School. He is our summer research intern (2025) working on effects of fungi on soil wettablitiy for appicliations in Agriculture. When he is not studying/working, Alec likes to play games or nap.
+  photo: Oshiro.JPG
+  info: Alec is Senior at Waipahu High School. He is our summer research intern (2025) working on effects of fungi on soil wettability for appicliations in Agriculture. When he is not studying/working, Alec likes to play games or nap.
   # email: h.s.m.van.bohemen@physics.leidenuniv.nl
   number_educ: 1
   education1: Waipahu High School
@@ -125,9 +125,9 @@
 #   education3:
 #   education4:
 
-- name: "This could be you !"
+- name: "This could also be you !"
   photo: rock.jpg
-  info: Stay tuned for more info!
+  info: If you love soil and would like to join our lab, please contact us.
   # info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: yanjing@hawaii.edu
   number_educ: 0
