@@ -92,21 +92,21 @@
 #   education3:
 #   education4:
 #
-# - name: Kees van Oosten
-#   photo: DSC_1032.JPG
-#   info: FFine mechanical engineer (also associated with the FMD)
-#   email: Oosten@fmd.physics.leidenuniv.nl
-#   number_educ: 2
-#   education1: Leidse instrumentmakers School
-#   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+- name: Sarabella Stusen
+  photo: Stusen.JPG
+  info: Sarebella is a third-year student studying Global Environmental Science. She is now researching soil hydraulic Properties of Tropical Soils in Hawaii for her Undergraduate Thesis.
+  # email: Oosten@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: University of Hawaiʻi at Mānoa
+  # education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
 #
-# - name: Hugo van Bohemen
-#   photo: hugo.jpg
-#   info: Fine mechanical engineer (also associated with the FMD)
-#   email: h.s.m.van.bohemen@physics.leidenuniv.nl
-#   number_educ: 1
-#   education1: Leidse Instrumentmakers School
-#   education2:
+- name: Alec-Bae Oshiro
+  photo: Oshiro.jpg
+  info: Alec is Senior at Waipahu High School. He is our summer research intern (2025) working on effects of fungi on soil wettablitiy for appicliations in Agriculture. When he is not studying/working, Alec likes to play games or nap.
+  # email: h.s.m.van.bohemen@physics.leidenuniv.nl
+  number_educ: 1
+  education1: Waipahu High School
+  education2:
 #
 # - name: Ilse Kuijf
 #   photo: ilse.jpeg

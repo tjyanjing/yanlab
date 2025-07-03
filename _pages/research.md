@@ -24,7 +24,7 @@ permalink: /research/
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/research/respic_colloid.webp){: style="width: 50%; display: block; margin: 20px auto"}   -->
 ![]({{ site.url }}{{ site.baseurl }}/images/research/colloid_redox.jpg){: style="width: 100%; display: block; margin: 20px auto"}  
 
-We investigate the fate and transport of nano-sized soil colloids, which are critical but often overlooked in carbon and nutrient cycling. Combining lab experiments with field studies, we examine how redox dynamics (e.g., in wetlands) drive colloid release and mobility. A key focus is nano-sized colloidal organic carbon, an understudied carbon pool traditionally misclassified as 'dissolved,' to quantify its role in global carbon budgets and biogeochemical processes.
+**Nano-sized colloids and carbon cycling**: We investigate the fate and transport of nano-sized soil colloids, which are critical but often overlooked in carbon and nutrient cycling. Combining lab experiments with field studies, we examine how redox dynamics (e.g., in wetlands) drive colloid release and mobility. A key focus is nano-sized colloidal organic carbon, an understudied carbon pool traditionally misclassified as 'dissolved,' to quantify its role in global carbon budgets and biogeochemical processes.
 
 ---
 ## **3. Saltwater Evaporation in Porous Media**
@@ -37,7 +37,7 @@ We investigate the fate and transport of nano-sized soil colloids, which are cri
 ![]({{ site.url }}{{ site.baseurl }}/images/research/pgpr_salt.jpg){: style="width: 100%; display: block; margin: 20px auto"}  
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/research/pgpr_setup.jpg){: style="width: 70%; display: block; margin: 20px auto"}   -->
 
-Soil microbes actively shape water movement and retention through their physical and biochemical interactions with soil structure. we study how microbial activity alters pore-scale water films, modifies evaporation patterns, and influences solute distribution—key processes controlling soil moisture availability. These findings highlight the untapped potential of soil microorganisms as natural regulators of water dynamics, offering new avenues to improve water conservation and resilience in agricultural and natural ecosystems.
+**Microbial regulation of pore-scale water dynamics**: Soil microbes actively shape water movement and retention through their physical and biochemical interactions with soil structure. we study how microbial activity alters pore-scale water films, modifies evaporation patterns, and influences solute distribution—key processes controlling soil moisture availability. These findings highlight the untapped potential of soil microorganisms as natural regulators of water dynamics, offering new avenues to improve water conservation and resilience in agricultural and natural ecosystems.
 
 ---
 ## **5. Modeling of soil functions at different scales**
@@ -45,7 +45,3 @@ Soil microbes actively shape water movement and retention through their physical
 Our research employs multi-scale modeling approaches—from rhizosphere-scale processes to regional-scale predictions—to understand and optimize soil-plant-water systems. We develop mechanistic models to test hypotheses about fundamental interactions, then scale these insights to generate practical solutions for agricultural and environmental challenges.
 
 ---
-
-
-
-**Note:** Replace image paths (e.g., `rhizosphere.jpg`) with your actual filenames. Adjust widths/margins as needed.
