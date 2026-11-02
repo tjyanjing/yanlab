@@ -1,5 +1,5 @@
 - name: Jing Yan
-  photo: Jing_01.jpeg
+  photo: Jing_02.jpg
   info: Assistant professor, started September 2024
   email: yanjing@hawaii.edu
   number_educ: 2
@@ -94,26 +94,34 @@
 #
 - name: Sarabella Stusen
   photo: Stusen.JPG
-  info: Sarebella is an undergraduate student studying Global Environmental Science. She is now studying soil hydraulic properties of tropical soils in Hawai'i for her Undergraduate Thesis.
+  info: Undergraduate student at GES (Global Environmental Science), started Spring 2025.
+  Research interests: Sarabella's project is about Metadata Analysis of Soil Hydraulic Properties of Soils on Oʻahu, Hawaiʻi.
+  She is also contributing to our current collaborative study that develops AI toolsets to facilitate analysis of legacy datasets from existing literature.
+  Her work is funded by the Undergraduate Research and Opportunities Program at the University.
+  Sarabella plans to graduate in Spring 2027, her project directly serves as part of her undergraduate research thesis.
+  She believes her thesis research can make a meaningful impact on soil health and sustainability!
   # email: Oosten@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: University of Hawaiʻi at Mānoa
   # education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
 #
-- name: Alec-Bae Oshiro
-  photo: Oshiro.JPG
-  info: Alec is Senior at Waipahu High School. He is our summer research intern (2025) working on effects of fungi on soil wettability for appicliations in Agriculture. When he is not studying/working, Alec likes to play games or nap.
-  # email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Waipahu High School
-  education2:
-#
-# - name: Ilse Kuijf
-#   photo: ilse.jpeg
-#   info: Shared PhD student in the [van Nieuwenburg group](https://evert.info)
-#   email: Bastiaans@Physics.LeidenUniv.nl
+# - name: Alec-Bae Oshiro
+#   photo: Oshiro.JPG
+#   info: Alec is Senior at Waipahu High School. He is our summer research intern (2025) working on effects of fungi on soil wettability for appicliations in Agriculture. When he is not studying/working, Alec likes to play games or nap.
+#   # email: h.s.m.van.bohemen@physics.leidenuniv.nl
 #   number_educ: 1
-#   education1: Master Leiden University
+#   education1: Waipahu High School
+#   education2:
+#
+- name: Le Chang
+  photo: Chang_Le.jpg
+  info: PhD. student, started Spring 2026.
+  Research interests: Le's interests lie in soil physics and biophysics, with a focus on the connections among plant roots, soil structure, water dynamics, and carbon cycling.
+  He is particulalry interested in how these interactions influence soil function and support sustainable agriculture.
+  Currently, he is developing field and laboratory studies to examine how plant roots and organic matter contribute to soil structure and how this relates to water storage, water movement, and carbon mineralization in agroforestry systems. I want to combines soil sampling, soil moisture monitoring, and measurements of soil hydraulic properties. Through this research, I aim to better understand the links between soil physical conditions and biological processes, providing insights for soil and water management.
+  # email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: MSc, Northwest A&F University, China
 #
 # - name: Jaroslav Sawitsch
 #   photo: jaroslav.png
