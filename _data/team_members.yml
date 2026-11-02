@@ -94,8 +94,8 @@
 #
 - name: Sarabella Stusen
   photo: Stusen.JPG
-  info: Undergraduate student at GES (Global Environmental Science), started Spring 2025.
-  Research interests: Sarabella's project is about Metadata Analysis of Soil Hydraulic Properties of Soils on Oʻahu, Hawaiʻi.
+  info: Sarabella's is an undergraduate student at GES (Global Environmental Science), joining us in Spring 2025.
+  Her project is about Metadata Analysis of Soil Hydraulic Properties of Soils on Oʻahu, Hawaiʻi.
   She is also contributing to our current collaborative study that develops AI toolsets to facilitate analysis of legacy datasets from existing literature.
   Her work is funded by the Undergraduate Research and Opportunities Program at the University.
   Sarabella plans to graduate in Spring 2027, her project directly serves as part of her undergraduate research thesis.
@@ -115,8 +115,7 @@
 #
 - name: Le Chang
   photo: Chang_Le.jpg
-  info: PhD. student, started Spring 2026.
-  Research interests: Le's interests lie in soil physics and biophysics, with a focus on the connections among plant roots, soil structure, water dynamics, and carbon cycling.
+  info: Le is a PhD student, joining us in Spring 2026. His interests lie in soil physics and biophysics, with a focus on the connections among plant roots, soil structure, water dynamics, and carbon cycling.
   He is particulalry interested in how these interactions influence soil function and support sustainable agriculture.
   Currently, he is developing field and laboratory studies to examine how plant roots and organic matter contribute to soil structure and how this relates to water storage, water movement, and carbon mineralization in agroforestry systems. I want to combines soil sampling, soil moisture monitoring, and measurements of soil hydraulic properties. Through this research, I aim to better understand the links between soil physical conditions and biological processes, providing insights for soil and water management.
   # email: Bastiaans@Physics.LeidenUniv.nl
