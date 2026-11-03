@@ -9,13 +9,22 @@ permalink: /pictures/
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews) -->
 
 
-## Leiden
+<!-- ## Leiden -->
 
 <!-- #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
 
 #### Gallery
-(Right-click *'view image'* to see a larger image.)
+
+<div class="row">
+  {% for pic in site.data.pictures_Leiden %}
+    <div class="col-sm-3 mb-3">
+      <img src="{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-fluid">
+    </div>
+  {% endfor %}
+</div>
+
+<!-- (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -51,7 +60,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
 <!-- First advertisement.
 <figure>
